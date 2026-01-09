@@ -8,7 +8,6 @@
             p1.setHealth(100);
             p1.setArmour(100);
             Console.WriteLine(p1.getHealth());
-
         }
     }
     class Player
